@@ -6,5 +6,3 @@ defineBackend({
   auth,
   data,
 });
-
-// npx ampx sandbox --profile default --identifier amplify-sandbox
